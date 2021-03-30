@@ -1,0 +1,1 @@
+A repo for cpp code for different algorithms that is meant to be readable rather than fast and efficient. Inspired by kactl/other libraries.
